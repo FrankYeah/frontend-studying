@@ -5,6 +5,7 @@
 3. **style**
 4. **basic use**
 5. **position**
+6. **hover**
 
 <h1>Assignment</h1>
 
