@@ -10,4 +10,4 @@
 
 https://front-enter.firebaseio.com/list.json
 
-2. When user click on img, you will have the ID to get the contnet you need on the contnet page.
+2. When user click on img, you will have the ID to get the content you need on the content page.
