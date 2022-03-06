@@ -12,6 +12,6 @@
 
 https://frankyeah.github.io/Front-Enter/index.html
 
-2. All the img on this driver.
+2. All the img on this repo.
 
-https://drive.google.com/drive/folders/1KA1laH0ZA3LVWWLWWRG2b6nf14ZBznYW
+https://github.com/FrankYeah/Front-Enter/tree/master/images
